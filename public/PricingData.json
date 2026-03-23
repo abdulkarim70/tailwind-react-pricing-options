@@ -8,10 +8,8 @@
     "features": [
       "Gym equipment access",
       "Locker room access",
-      "Free Wi-Fi",
-      "Open gym hours (6am - 10pm)",
-      "Access to stretching area",
-      "Basic fitness assessment"
+      "Free Wi-Fi"
+      
     ],
     "popular": false
   },
@@ -19,16 +17,14 @@
     "id": 2,
     "name": "Standard Plan",
     "price": 50,
+    "popular":true,
     "duration": "per month",
     "description": "Perfect for regular gym users.",
     "features": [
       "All Basic features",
       "Group classes (Yoga, Cardio, Zumba)",
-      "2 Personal training sessions per month",
-      "Diet & nutrition guide",
-      "Access to cardio & weight zone",
-      "Body composition tracking",
-      "Mobile app access"
+      "2 Personal training sessions per month"
+      
     ],
     "popular": true
   },
@@ -41,12 +37,8 @@
     "features": [
       "All Standard features",
       "Unlimited personal training",
-      "24/7 gym access",
-      "Sauna & steam room",
-      "Custom workout & diet plan",
-      "Supplement consultation",
-      "Priority trainer booking",
-      "Access to VIP lounge"
+      "24/7 gym access"
+      
     ],
     "popular": false
   }
